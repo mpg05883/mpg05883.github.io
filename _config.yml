@@ -12,7 +12,7 @@ site_theme: "default" # Currently available options are "default", "air"
 title: ""
 title_separator: ""
 name: &name "Mike Gee"
-description: &description "foo"
+description: &description "Mike Gee's personal website"
 url: https://mpg05883.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "mpg05883/mpg05883.github.io"
@@ -184,6 +184,14 @@ exclude:
   - tmp
   - vendor
   - "start-jekyll.*"
+  - .git
+  - timecopilot/.git
+  - timecopilot/.git/**
+watch_exclude:
+  - \.git/
+  - timecopilot/\.git/
+  - node_modules/
+  - vendor/
 keep_files:
   - .git
   - .svn
