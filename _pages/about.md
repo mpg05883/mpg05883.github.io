@@ -9,6 +9,8 @@ redirect_from:
 
 Hi, I'm Mike. I'm an undergraduate Computer Science student at the University of Southern California (USC). I'm currently working under Professor [Yan Liu](https://sites.google.com/view/yanliu-ai/home) on **time series foundation models** and Professor [Swabha Swayamdipta](https://swabhs.com/) on **fine-grained evaluation of Large Language Models (LLMs)**.
 
+[CV](/files/Mike_Gee_CV.pdf)
+
 ## Publications
 
 ### Under Review
