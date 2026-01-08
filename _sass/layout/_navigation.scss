@@ -203,11 +203,13 @@
   }
 
   .visible-links {
-    display: table;
+    display: flex;
+    align-items: center;
+    width: 100%;
 
     li {
-      display: table-cell;
-      vertical-align: middle;
+      display: flex;
+      align-items: center;
 
       &:first-child {
         font-weight: bold;
@@ -226,6 +228,8 @@
     }
 
     #theme-toggle {
+      margin-left: auto;
+      
       a {
         width: 25px;
         display: flex;
