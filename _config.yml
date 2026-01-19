@@ -11,8 +11,8 @@ locale: "en-US"
 site_theme: "default" # Currently available options are "default", "air"
 title: ""
 title_separator: ""
-name: &name "Mike Gee"
-description: &description "Mike Gee's personal website"
+name: "Mike (Michael) Gee"
+description: "Mike Gee's personal website"
 url: https://mpg05883.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "mpg05883/mpg05883.github.io"
@@ -22,9 +22,9 @@ repository: "mpg05883/mpg05883.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "casual_profile_picture.jpg"
+  avatar: "casual_headshot_1.jpg"
   name: "Mike (Michael) Gee"
-  pronouns: "he/him"
+  pronouns: "He/Him"
   location: "Los Angeles, CA"
   employer:
   uri: # URL
