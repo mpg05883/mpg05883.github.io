@@ -23,10 +23,10 @@ repository: "mpg05883/mpg05883.github.io"
 author:
   # Biographic information
   avatar: "casual_profile_picture.jpg"
-  name: "Mike Gee"
+  name: "Mike (Michael) Gee"
   pronouns: "he/him"
   location: "Los Angeles, CA"
-  employer: "USC"
+  employer:
   uri: # URL
   email: "mpgee@usc.edu"
 
