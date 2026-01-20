@@ -36,7 +36,7 @@ Here is my [CV](/files/Mike_Gee_CV.pdf).
 
 ### Under Review
 
-<link rel="stylesheet" href="/style/about.css">
+<link rel="stylesheet" href="/assets/css/about.css">
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
