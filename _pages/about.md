@@ -43,7 +43,7 @@ Here is my [CV](/files/Mike_Gee_CV.pdf).
     <img src="/images/publications/TSOrchestra.png" alt="TSFM figure">
   </div>
   <div class="pub-content">
-    <div class="pub-title">Conversational Time Series Foundation Models: Towards Explainable and Effective Forecasting</div>
+    <div class="pub-title">TSOrchestra: Time Series Agentic Orchestration Framework for Dynamic and Explainable Forecasting</div>
     <div class="pub-authors">Defu Cao, <span class="me">Michael Gee</span>, Jinbo Liu, Hengxaun Wang, Wei Yang, Rui Wang, Yan Liu</div>
     <!-- <div class="pub-description">We propose TSOrchestra, a novel framework for zero-shot forecasting that uses an LLM agent to ensemble several TSFMs. TSOrchestra outperforms competitors from Salesforce, Amazon, and Google on zero-shot time series forecasting</div> -->
     <div class="pub-status">In submission at ICML 2026</div>
