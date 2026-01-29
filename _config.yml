@@ -22,7 +22,7 @@ repository: "mpg05883/mpg05883.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "casual_headshot_1.jpg"
+  avatar: "formal_headshot_1.jpg"
   name: "Mike (Michael) Gee"
   pronouns: "He/Him"
   location: "Los Angeles, CA"
