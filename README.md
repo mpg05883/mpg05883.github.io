@@ -41,5 +41,5 @@ See more info at <https://academicpages.github.io/>.
 Use the `start.sh` script to run the website on a local server with live changes.
 
 ```
-./start.sh
+./scripts/start.sh
 ```

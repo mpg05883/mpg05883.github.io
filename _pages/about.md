@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I recently graduated with my B.S. in Computer Science from the University of Southern California, where I am working with [Prof. Yan Liu](https://sites.google.com/view/yanliu-ai/home) on **Time Series Foundation Models** and [Prof. Swabha Swayamdipta](https://swabhs.com/) with [Prof. Yixin Wang](https://yixinwang.github.io/) from the University of Michigan on **LLM evaluations**.
+I'm a first-year MS student in Computer Science at Yale, where I work with [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/) on **Time Series Foundation Models (TSFMs)**. Previously, I received my BS in Computer Science from USC, where I worked with [Prof. Yan Liu](https://sites.google.com/view/yanliu-ai/home) on TSFMs and [Prof. Swabha Swayamdipta](https://swabhs.com/) in collaboration with [Prof. Yixin Wang](https://yixinwang.github.io/) (University of Michigan) on evaluating LLMs.
 
+<!-- TODO: Update this -->
 My research develops **data-centric** approaches to ML where data plays an *active role* in guiding learning, inference, etc. instead of being passively consumed, and uses these approaches to service properties in ML systems like generalizability, explainability, and interpretability.
 
 This manifests in several ways, like:
@@ -43,10 +44,11 @@ Here is my [CV](/files/Mike_Gee_CV.pdf).
     <img src="/images/publications/TSOrchestra.png" alt="TSFM figure">
   </div>
   <div class="pub-content">
-    <div class="pub-title">TSOrchestra: Time Series Agentic Orchestration Framework for Dynamic and Explainable Forecasting</div>
-    <div class="pub-authors">Defu Cao, <span class="me">Michael Gee</span>, Jinbo Liu, Hengxaun Wang, Wei Yang, Rui Wang, Yan Liu</div>
-    <!-- <div class="pub-description">We propose TSOrchestra, a novel framework for zero-shot forecasting that uses an LLM agent to ensemble several TSFMs. TSOrchestra outperforms competitors from Salesforce, Amazon, and Google on zero-shot time series forecasting</div> -->
-    <div class="pub-status">In submission at ICML 2026</div>
+    <div class="pub-title">TSOrchestra: Time Series Agentic Orchestration Framework towards Dynamic and Faithful Fore-
+casting</div>
+    <div class="pub-authors">Defu Cao, <span class="me">Mike Gee</span>, Jinbo Liu, Hengxaun Wang, Wei Yang, Muyan Weng, Rui Wang, Yan Liu</div>
+    <!-- <div class="pub-description">We propose TSOrchestra, a novel framework for zero-shot forecasting that uses an LLM agent to ensemble several TSFMs that outperforms competitors from Salesforce, Amazon, and Google on zero-shot time series forecasting</div> -->
+    <div class="pub-status">In submission at NeurIPS 2026</div>
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2512.16022">arXiv</a>
       <a href="https://github.com/DC-research/TSorchestra">Code</a>
