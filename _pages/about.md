@@ -1,35 +1,19 @@
 ---
 permalink: /
-title: "Mike (Michael) Gee"
+title: "Mike Gee"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a first-year MS student in Computer Science at Yale, where I work with [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/) on **Time Series Foundation Models (TSFMs)**. Previously, I received my BS in Computer Science from USC, where I worked with [Prof. Yan Liu](https://sites.google.com/view/yanliu-ai/home) on TSFMs and [Prof. Swabha Swayamdipta](https://swabhs.com/) in collaboration with [Prof. Yixin Wang](https://yixinwang.github.io/) (University of Michigan) on evaluating LLMs.
-
-<!-- TODO: Update this -->
-My research develops **data-centric** approaches to ML where data plays an *active role* in guiding learning, inference, etc. instead of being passively consumed, and uses these approaches to service properties in ML systems like generalizability, explainability, and interpretability.
-
-This manifests in several ways, like:
-
-- Using text data to create self-supervised labels when fine-tuning language models to eliminate the need for costly human-annotated labels and improve data-efficiency
-- Using time series' temporal patterns to guide inference-time decision making in time series forecasting and improve generalizability and explainability
-- Using samples in LLM benchmarks to identify fine-grained capabilities and improve interpretability in LLM evaluations and benchmark construction
-
-I am also broadly interested in understanding the relationship between training data and model behavior, investigating how model capabilities emerge during training, and analyzing how training data affects downstream performance.
-
-<!-- 
-Consider adding that you're broadly interested in the following topics:
-- Learning dynamics: the study of how a model's parameters, representations, and performance change over time during the training process
-- Data-efficiency: creating high-performing models with less data
-- Synthetic data generation
- -->
+I'm a first-year master's student at Yale University, where I work with [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/) on **Time Series Foundation Models (TSFMs)** and **multimodal time series analysis**. Currently, my research investigates the relationship between pre-training data and downstream performance in TSFMs and how we can produce more accurate forecasts by incorportating other modalities like text. Previously, I received my BS in Computer Science from USC, where I worked with [Prof. Yan Liu](https://sites.google.com/view/yanliu-ai/home) on TSFMs and [Prof. Swabha Swayamdipta](https://swabhs.com/) in collaboration with [Prof. Yixin Wang](https://yixinwang.github.io/) (University of Michigan) on evaluating LLMs.
 
 Here is my [CV](/files/Mike_Gee_CV.pdf).
 
 ## News
+
+- **May 2026**: I will be joining [Yale University](https://www.yale.edu/) for my master's to work on TSFMs and multimodal time series analysis with [Rex Ying](https://www.cs.yale.edu/homes/ying-rex/)
 
 - **Dec 2025**: [TSOrchestra](https://github.com/DC-research/TSorchestra), an agentic zero-shot forecasting framework I created with [Defu Cao](https://idevede.github.io/), achieved **1st place** on Salesforce's [GIFT-Eval Time Series Forecasting Leaderboard](https://huggingface.co/spaces/Salesforce/GIFT-Eval)
 
